@@ -6,3 +6,5 @@
 
 ## rust
 - https://github.com/kcl-lang/kcl 配置dsl
+- https://tokio.rs/ task
+- https://actix.rs/ web api
